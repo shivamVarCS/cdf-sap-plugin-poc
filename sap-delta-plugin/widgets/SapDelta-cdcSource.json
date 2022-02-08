@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "spec-version": "1.5"
+  },
+  "display-name": "SAP Delta Replicator",
+  "configuration-groups": [
+    {
+      "label": "Basic",
+      "properties": [
+        {
+          "name": "host",
+          "label": "Host",
+          "widget-type": "textbox"
+        },
+        {
+          "name": "port",
+          "label": "Port",
+          "widget-type": "textbox",
+          "widget-attributes": {
+            "default": "1433"
+          }
+        },
+        {
+          "name": "database",
+          "label": "Database Name",
+          "widget-type": "textbox"
+        }
+      ]
+    },
+    {
+      "label": "Credentials",
+      "properties": [
+        {
+          "name": "user",
+          "label": "User",
+          "widget-type": "textbox"
+        },
+        {
+          "name": "password",
+          "label": "Password",
+          "widget-type": "password"
+        }
+      ]
+    },
+    {
+      "label": "Advanced",
+      "properties": [
+        {
+          "name": "serverTimezone",
+          "label": "Server Timezone",
+          "widget-type": "textbox",
+          "widget-attributes": {
+            "default": "UTC"
+          }
+        },
+        {
+          "name": "replicateExistingData",
+          "label": "Replicate Existing Data",
+          "widget-type": "toggle",
+          "widget-attributes": {
+            "on": {
+              "value": "true",
+              "label": "Yes"
+            },
+            "off": {
+              "value": "false",
+              "label": "No"
+            },
+            "default": "true"
+          }
+        }
+      ]
+    }
+  ],
+  "outputs": []
+}
+

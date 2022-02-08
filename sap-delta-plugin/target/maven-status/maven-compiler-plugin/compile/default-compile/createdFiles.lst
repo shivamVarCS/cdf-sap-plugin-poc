@@ -1,0 +1,11 @@
+com/sap/delta/SapDeltaConfig.class
+com/sap/delta/watcher/PollCdcFile.class
+com/sap/delta/watcher/GcsWatcher.class
+com/sap/delta/StorageWatcher.class
+com/sap/delta/SapDeltaTableAssessor.class
+com/sap/delta/metadata/SapDeltaSourceColumn.class
+com/sap/delta/SapDeltaEventReader.class
+com/sap/delta/SapDeltaOffset.class
+com/sap/delta/metadata/SapDeltaTable.class
+com/sap/delta/SapDeltaSource.class
+com/sap/delta/SapDeltaTableRegistry.class

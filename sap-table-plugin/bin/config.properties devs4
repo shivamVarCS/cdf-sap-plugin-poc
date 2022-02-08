@@ -1,0 +1,10 @@
+#Mon Nov 23 16:51:52 EST 2020
+jco.client.lang=en
+jco.client.client=100
+jco.client.passwd=Welcome1
+jco.client.user=bpinst
+jco.client.sysnr=00
+jco.client.ashost=35.233.86.135
+RFM=/SAPDS/RFC_READ_TABLE2
+queryTable=ACDOCA
+packageSize=10000

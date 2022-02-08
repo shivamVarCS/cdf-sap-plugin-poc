@@ -1,0 +1,1 @@
+tar -cvf tr.tar TableReader.java tr.sh config.properties sapjco3.jar libsapjco3.so 

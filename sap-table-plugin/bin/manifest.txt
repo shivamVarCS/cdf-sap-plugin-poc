@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: sapjco3.jar
+Main-Class: TableReader

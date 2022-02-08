@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="TableReader/TableReader.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/TableReader/jar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=TableReader/&lt;{TableReader.java[TableReader" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=TableReader/&lt;javadoc.com.sap.conn.jco"/>
+        <file path="/TableReader/sapjcomanifest.mf"/>
+        <javaElement handleIdentifier="=TableReader/examples"/>
+        <javaElement handleIdentifier="=TableReader/&lt;javadoc"/>
+        <javaElement handleIdentifier="=TableReader/&lt;javadoc.resources"/>
+        <file path="/TableReader/Readme.txt"/>
+        <file path="/TableReader/.project"/>
+        <javaElement handleIdentifier="=TableReader/&lt;"/>
+        <javaElement handleIdentifier="=TableReader/&lt;javadoc.com.sap.conn.jco.ext"/>
+        <javaElement handleIdentifier="=TableReader/&lt;javadoc.com.sap.conn.jco.monitor"/>
+        <javaElement handleIdentifier="=TableReader/&lt;javadoc.com.sap.conn.jco.server"/>
+        <file path="/TableReader/.classpath"/>
+    </selectedElements>
+</jardesc>
