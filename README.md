@@ -3,12 +3,10 @@ Multi module SAP plugins project
 
 Modules
 -------
-1. sap-odata-plugins
-2. sap-odp-plugins
-3. sap-slt-plugins
-4. sap-table-plugins
-5. sap-bwreader-plugin   
-6. sap-delta-plugins
+
+1. sap-table-plugins
+2. sap-bwreader-plugin   
+3. sap-delta-plugins
 
 
 Setup
